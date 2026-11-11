@@ -2,7 +2,7 @@
 
 Aplicación web de dos partes: un backend Java que expone los pedidos de una tienda como JSON, y un frontend en TypeScript que los consume y muestra el detalle de cada uno. Trabajo práctico grupal (Grupo 4).
 
-**Integrantes:** _completar con los nombres del equipo_
+**Integrantes:** Emilia, Agustin, Guadalupe, Miguel
 
 ## Stack
 
